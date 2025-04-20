@@ -1,2 +1,8 @@
 # Calculator-GUI
-Calculator created with tkinter library from python
+A simple calculator created using tkinter library from python
+
+## Features
+- **Basic arithmetic operations:** +, - , *, /, (-)
+- **Basic scientific operations:** ^, √
+- **Handles decimals, floats and edge cases**
+
